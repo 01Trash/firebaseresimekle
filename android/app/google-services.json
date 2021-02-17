@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548704787060",
+    "project_id": "resimyukle-cc233",
+    "storage_bucket": "resimyukle-cc233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548704787060:android:616f07fb9bb2784ba34f21",
+        "android_client_info": {
+          "package_name": "com.example.firebaseresimekle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548704787060-s23h35gms42j5i2144l4tk2fevbp6ruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1qzKHpOiJzHqvTrDtNO4XtP9Du4zuVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548704787060-s23h35gms42j5i2144l4tk2fevbp6ruq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
